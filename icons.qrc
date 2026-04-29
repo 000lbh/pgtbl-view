@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/5-level-off.png</file>
+        <file>icons/5-level-on.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+build/
+kernel/Module.symvers
+kernel/*.o
+kernel/*.ko
+kernel/*.mod
+kernel/*.mod.*
+kernel/modules.order
+kernel/*.cmd
+*.user
+.DS_Store
